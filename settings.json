@@ -1,0 +1,11 @@
+{
+  "ShowPasswords": false,
+  "SelectedRegion": 4,
+  "ClientVersion": "7.15.17_05_10_19_29",
+  "PBEClientVersion": "6.22.16_10_28_04_09",
+  "DataDragonVersion": "7.15.1",
+  "DefaultCustomExportFilename": "DefaultText.txt",
+  "CheckForPenaltyTime": true,
+  "BanDaysToIgnore": 15,
+  "Workers": 4
+}
