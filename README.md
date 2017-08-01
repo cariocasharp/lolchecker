@@ -1,0 +1,2 @@
+# lolchecker
+Config to work
